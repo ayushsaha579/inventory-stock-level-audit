@@ -1,0 +1,6 @@
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+pytest>=7.0
+# Optional: mysql-connector-python>=8.0  (for MySQL integration)

@@ -1,0 +1,88 @@
+product_id,product_name,category,supplier,recorded_qty,physical_qty,reorder_level,max_stock_level,unit_cost,last_restocked
+SKU0001,Wireless Mouse,Electronics,Summit Goods,70,70,20,60,120,2026-05-03
+SKU0002,Wireless Mouse 2,Electronics,Eastern Distributors,2,1,15,55,250,2026-04-08
+SKU0003,Wireless Mouse 3,Electronics,Northstar Supplies,103,105,5,85,3200,2026-07-25
+SKU0004,Mechanical Keyboard,Electronics,Summit Goods,80,84,20,60,6500,2026-03-09
+SKU0005,Mechanical Keyboard 2,Electronics,Eastern Distributors,120,120,15,95,12000,2026-02-05
+SKU0006,Mechanical Keyboard 3,Electronics,Metro Wholesale,99,96,15,35,120,2026-08-06
+SKU0007,USB-C Hub,Electronics,BluePeak Trading,32,33,25,45,80,2026-03-15
+SKU0008,USB-C Hub 2,Electronics,Eastern Distributors,114,113,25,105,120,2026-08-10
+SKU0009,USB-C Hub 3,Electronics,BluePeak Trading,44,45,5,45,800,2026-08-06
+SKU0010,Webcam,Electronics,Eastern Distributors,115,112,25,45,450,2026-04-06
+SKU0011,Webcam 2,Electronics,Northstar Supplies,0,0,5,45,80,2026-06-13
+SKU0012,Webcam 3,Electronics,Summit Goods,98,98,15,95,6500,2026-05-15
+SKU0013,Headphones,Electronics,Northstar Supplies,15,15,25,45,6500,2026-09-18
+SKU0014,Headphones 2,Electronics,Northstar Supplies,0,0,25,45,450,2026-02-10
+SKU0015,Headphones 3,Electronics,Northstar Supplies,73,71,20,80,80,2026-06-06
+SKU0016,SSD 1TB,Electronics,Eastern Distributors,80,79,10,40,450,2026-06-27
+SKU0017,SSD 1TB 2,Electronics,BluePeak Trading,101,105,5,45,250,2026-02-03
+SKU0018,SSD 1TB 3,Electronics,BluePeak Trading,31,29,10,70,120,2026-06-08
+SKU0019,Monitor 24-inch,Electronics,Eastern Distributors,3,3,20,50,12000,2026-04-15
+SKU0020,Monitor 24-inch 2,Electronics,Summit Goods,105,102,15,45,250,2026-06-23
+SKU0021,Monitor 24-inch 3,Electronics,Metro Wholesale,86,88,5,35,6500,2026-02-20
+SKU0022,Laptop Stand,Electronics,Northstar Supplies,0,0,15,55,250,2026-07-04
+SKU0023,Laptop Stand 2,Electronics,Summit Goods,54,58,10,40,250,2026-01-15
+SKU0024,Laptop Stand 3,Electronics,Metro Wholesale,1,5,25,85,450,2026-09-09
+SKU0025,A4 Paper Pack,Office Supplies,Summit Goods,15,12,25,105,6500,2026-06-12
+SKU0026,A4 Paper Pack 2,Office Supplies,Summit Goods,25,26,20,50,80,2026-04-12
+SKU0027,A4 Paper Pack 3,Office Supplies,Summit Goods,27,25,15,75,1500,2026-04-03
+SKU0028,Ballpoint Pens,Office Supplies,Summit Goods,8,9,25,45,80,2026-08-27
+SKU0029,Ballpoint Pens 2,Office Supplies,BluePeak Trading,10,11,20,40,800,2026-08-22
+SKU0030,Ballpoint Pens 3,Office Supplies,Eastern Distributors,92,91,25,105,1500,2026-02-20
+SKU0031,Stapler,Office Supplies,Summit Goods,44,44,15,75,6500,2026-04-07
+SKU0032,Stapler 2,Office Supplies,Northstar Supplies,93,93,25,105,450,2026-06-24
+SKU0033,Stapler 3,Office Supplies,BluePeak Trading,1,0,15,45,6500,2026-07-09
+SKU0034,Sticky Notes,Office Supplies,Eastern Distributors,49,47,10,30,12000,2026-01-02
+SKU0035,Sticky Notes 2,Office Supplies,BluePeak Trading,6,8,10,50,250,2026-04-25
+SKU0036,Sticky Notes 3,Office Supplies,Metro Wholesale,70,70,25,85,800,2026-01-18
+SKU0037,File Folders,Office Supplies,Summit Goods,80,82,5,65,120,2026-04-25
+SKU0038,File Folders 2,Office Supplies,Northstar Supplies,112,114,15,45,80,2026-04-24
+SKU0039,File Folders 3,Office Supplies,Eastern Distributors,106,104,25,65,1500,2026-01-24
+SKU0040,Whiteboard Marker,Office Supplies,Northstar Supplies,76,80,5,85,1500,2026-02-10
+SKU0041,Whiteboard Marker 2,Office Supplies,Eastern Distributors,21,22,25,55,80,2026-05-18
+SKU0042,Whiteboard Marker 3,Office Supplies,BluePeak Trading,104,106,5,45,6500,2026-03-21
+SKU0043,USB-C Cable,Accessories,Eastern Distributors,59,59,15,55,1500,2026-04-09
+SKU0044,USB-C Cable 2,Accessories,Eastern Distributors,0,0,20,100,120,2026-07-14
+SKU0045,USB-C Cable 3,Accessories,Northstar Supplies,97,96,25,85,3200,2026-03-28
+SKU0046,HDMI Cable,Accessories,Eastern Distributors,5,6,10,70,800,2026-09-16
+SKU0047,HDMI Cable 2,Accessories,Eastern Distributors,42,42,10,50,120,2026-02-04
+SKU0048,HDMI Cable 3,Accessories,Metro Wholesale,24,21,20,40,12000,2026-01-01
+SKU0049,Mouse Pad,Accessories,Northstar Supplies,28,32,25,85,800,2026-08-22
+SKU0050,Mouse Pad 2,Accessories,BluePeak Trading,111,110,20,100,12000,2026-07-13
+SKU0051,Mouse Pad 3,Accessories,Northstar Supplies,111,111,15,95,80,2026-05-24
+SKU0052,Laptop Sleeve,Accessories,Eastern Distributors,83,87,25,85,3200,2026-09-06
+SKU0053,Laptop Sleeve 2,Accessories,Summit Goods,8,7,10,90,12000,2026-09-02
+SKU0054,Laptop Sleeve 3,Accessories,Metro Wholesale,34,35,10,90,250,2026-08-17
+SKU0055,Power Adapter,Accessories,Summit Goods,2,0,20,100,6500,2026-02-07
+SKU0056,Power Adapter 2,Accessories,Eastern Distributors,59,57,20,50,800,2026-05-08
+SKU0057,Power Adapter 3,Accessories,Northstar Supplies,25,23,25,85,3200,2026-04-15
+SKU0058,Ethernet Cable,Accessories,BluePeak Trading,37,38,15,95,80,2026-02-04
+SKU0059,Ethernet Cable 2,Accessories,Eastern Distributors,61,58,20,100,6500,2026-04-13
+SKU0060,Ethernet Cable 3,Accessories,Northstar Supplies,20,18,15,35,800,2026-08-14
+SKU0061,Wi-Fi Router,Networking,Eastern Distributors,112,109,25,45,6500,2026-01-24
+SKU0062,Wi-Fi Router 2,Networking,Summit Goods,9,10,15,45,800,2026-08-19
+SKU0063,Wi-Fi Router 3,Networking,Eastern Distributors,109,107,25,105,6500,2026-07-22
+SKU0064,Ethernet Switch,Networking,Eastern Distributors,100,102,25,105,6500,2026-04-21
+SKU0065,Ethernet Switch 2,Networking,Summit Goods,109,109,5,65,80,2026-07-19
+SKU0066,Ethernet Switch 3,Networking,BluePeak Trading,0,0,5,85,800,2026-08-20
+SKU0067,Network Adapter,Networking,Northstar Supplies,52,52,20,40,450,2026-03-13
+SKU0068,Network Adapter 2,Networking,Northstar Supplies,4,4,5,35,6500,2026-01-26
+SKU0069,Network Adapter 3,Networking,Metro Wholesale,58,56,10,30,3200,2026-02-02
+SKU0070,Access Point,Networking,Northstar Supplies,57,54,15,75,6500,2026-09-15
+SKU0071,Access Point 2,Networking,Northstar Supplies,96,98,25,85,800,2026-07-22
+SKU0072,Access Point 3,Networking,Eastern Distributors,59,59,15,45,1500,2026-09-04
+SKU0073,Patch Cable,Networking,Eastern Distributors,91,93,5,45,120,2026-08-14
+SKU0074,Patch Cable 2,Networking,Northstar Supplies,22,24,10,40,12000,2026-04-19
+SKU0075,Patch Cable 3,Networking,Metro Wholesale,17,17,25,55,12000,2026-09-21
+SKU0076,USB Drive 64GB,Storage,Northstar Supplies,22,24,15,35,120,2026-03-09
+SKU0077,USB Drive 64GB 2,Storage,BluePeak Trading,3,0,10,40,450,2026-01-10
+SKU0078,USB Drive 64GB 3,Storage,BluePeak Trading,34,31,10,30,250,2026-01-08
+SKU0079,External HDD 2TB,Storage,Eastern Distributors,2,2,5,25,3200,2026-03-13
+SKU0080,External HDD 2TB 2,Storage,Metro Wholesale,100,99,15,75,800,2026-07-13
+SKU0081,External HDD 2TB 3,Storage,Summit Goods,47,51,25,45,6500,2026-04-09
+SKU0082,SD Card 128GB,Storage,Northstar Supplies,107,109,10,40,6500,2026-03-23
+SKU0083,SD Card 128GB 2,Storage,Summit Goods,47,45,15,35,800,2026-02-27
+SKU0084,SD Card 128GB 3,Storage,BluePeak Trading,60,57,10,90,6500,2026-09-08
+SKU0085,Portable SSD,Storage,Metro Wholesale,31,31,20,50,12000,2026-09-17
+SKU0086,Portable SSD 2,Storage,Eastern Distributors,91,92,10,70,12000,2026-02-05
+SKU0087,Portable SSD 3,Storage,Metro Wholesale,77,78,10,70,1500,2026-09-16
